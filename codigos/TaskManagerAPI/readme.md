@@ -94,6 +94,4 @@ Inclua nesta seção as referências a documentos, padrões, ou outras fontes co
 2. [Modelo de Plano de Execução de Projeto](https://www.example.com/plano-execucao)
 3. [Requisitos Não Funcionais - Wikipedia](https://en.wikipedia.org/wiki/Non-functional_requirement)
 
----
-
-Este é um exemplo simplificado de um Documento de Requisitos e Plano de Execução para o projeto "TaskManagerAPI". Lembre-se de personalizar esses documentos de acordo com as necessidades específicas do seu projeto e incluir todas as informações relevantes.
+![TaskManagerAPI](https://github.com/rubenslyra/engenharia-de-software/assets/37023108/0bceb8b0-bb89-4f06-8cd2-77d37ad7b2fd)
