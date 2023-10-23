@@ -44,4 +44,7 @@ Coloquialmente, alguém pode se referir à sua "backbone" para indicar sua forç
 
 ## Referência
 
+- [Spinal Cord Structure and Function](https://www.youtube.com/watch?app=desktop&v=rzXRJzZbRJE)
+- [Backbone - Dicionário de Informática ](https://www.youtube.com/watch?app=desktop&v=KlRw27vKk_M)
+
 [Merriam-Webster Dictionary - Backbone](https://www.merriam-webster.com/dictionary/backbone)
